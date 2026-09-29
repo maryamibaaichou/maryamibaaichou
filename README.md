@@ -29,4 +29,6 @@ I start from the person using the product, write down what success looks like be
 
 ### Get in touch
 
-[Website](https://maryamibaaichou.com) · [LinkedIn](https://www.linkedin.com/in/maryam-ibaaichou) · [Email](mailto:maryamibaaichou@gmail.com)
+- Website: [maryamibaaichou.com](https://maryamibaaichou.com)
+- LinkedIn: [linkedin.com/in/maryamibaaichou](https://www.linkedin.com/in/maryamibaaichou/)
+- Email: maryamibaaichou@gmail.com
