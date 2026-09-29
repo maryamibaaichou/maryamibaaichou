@@ -3,7 +3,7 @@
 I'm a software engineering student at Sichuan University and an AI research assistant. I like building AI products that solve real human problems, end to end: from the data and the model calls to the evaluation that shows whether they actually work.
 
 - **Now:** Research Assistant at the Machine Intelligence Lab, Sichuan University, working on multi-agent AI and evaluation
-- **Industry:** Big Data Engineering Intern at Suncaper, Chengdu
+- **Previously:** Big Data Engineering internship at Suncaper, Chengdu (2026)
 - **Studying:** B.Eng. Software Engineering, Sichuan University, on a full merit scholarship (graduating 2027)
 - **Languages I speak:** Arabic · Amazigh · French · English · Chinese · Turkish
 
